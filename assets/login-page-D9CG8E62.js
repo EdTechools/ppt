@@ -1,0 +1,1 @@
+import{d as e,r as n,o as t,c as r}from"./modules/vue-BOVj5Shv.js";import{O as s}from"./index-0m_CdJGF.js";import"./modules/shiki-sKuWUF9L.js";const l=e({__name:"login-page",setup(a){return s(),(m,p)=>{const o=n("LoginForm");return t(),r(o)}}});export{l as default};

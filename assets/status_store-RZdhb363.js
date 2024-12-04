@@ -1,0 +1,1 @@
+import{ak as s}from"./index-0m_CdJGF.js";import{t as r}from"./modules/vue-BOVj5Shv.js";const n=s("status",()=>{const e=r("");return{username:e,set_username:t=>{e.value=t}}},{persist:!0});export{n as u};
