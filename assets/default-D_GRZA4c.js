@@ -1,0 +1,1 @@
+import{A as r,o as l,b as a,f as c,i as n}from"./modules/vue-BOVj5Shv.js";import{O as u}from"./index-pFKLFa-J.js";const p={__name:"default",props:{color:{default:"white"}},setup(e){u();const o=e,s=r(()=>`neversink-${o.color}-scheme`);return(t,i)=>(l(),a("div",{class:n(["slidev-layout default slidecolor",s.value])},[c(t.$slots,"default")],2))}};export{p as _};

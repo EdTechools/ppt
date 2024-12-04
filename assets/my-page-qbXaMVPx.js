@@ -1,0 +1,1 @@
+import{d as e}from"./modules/vue-BOVj5Shv.js";import{O as t}from"./index-pFKLFa-J.js";import"./modules/shiki-sKuWUF9L.js";const s=e({__name:"my-page",setup(o){return t(),(r,m)=>" hello "}});export{s as default};
